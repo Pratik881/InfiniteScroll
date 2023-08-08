@@ -96,4 +96,3 @@
     loadQuotes(currentPage, limit);
 
 })();
-console.log(1)
